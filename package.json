@@ -16,7 +16,7 @@
     "test-args": "bin/index.js -i \"content/**\" -o public/output.json",
     "test-api": "bin/api.js"
   },
-  "author": "Raf Geekee <mrgeekee@rafgeekee.com> (http://refgeekee,com)",
+  "author": "Raf Geekee <mrgeekee@rafgeekee.com> (http://rafgeekee.com)",
   "license": "MIT",
   "dependencies": {
     "glob": "^7.0.0",
